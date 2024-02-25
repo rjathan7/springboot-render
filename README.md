@@ -23,7 +23,8 @@ This feature enables users to delete any student from the database. Upon confirm
 ### 4. View All Students
 Endpoint: `/students/view`
 
-Displays all students currently in the database. Students are represented as rectangles, with their attributes drawn in the form of a `<div>` or `<span>` tag.
+Displays all students currently in the database. Students are represented as rectangles where the length and width of the rectangles are dependent on the student's height and weight respectively. Furthermore,
+the border color of the rectangle matches that of the student's hair color.
 
 ## Technologies Used
 - Spring Boot
@@ -31,8 +32,5 @@ Displays all students currently in the database. Students are represented as rec
 - Bootstrap (for styling)
 
 ## Contributors
-- [Your Name]
-
-## License
-This project is licensed under the [MIT License](LICENSE).
+- Rohith Jathan
 
