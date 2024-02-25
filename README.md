@@ -26,11 +26,6 @@ Endpoint: `/students/view`
 Displays all students currently in the database. Students are represented as rectangles where the length and width of the rectangles are dependent on the student's height and weight respectively. Furthermore,
 the border color of the rectangle matches that of the student's hair color.
 
-## Technologies Used
-- Spring Boot
-- Thymeleaf (for HTML templates)
-- Bootstrap (for styling)
-
 ## Contributors
 - Rohith Jathan
 
